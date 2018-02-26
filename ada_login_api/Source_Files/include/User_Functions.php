@@ -252,7 +252,7 @@ class User_Functions {
 			return json_encode($response);
 		}
 		try {
-			$stmt = $conn->prepare('SELECT user_one_id, user_two_id FROM friend WHERE (user_one_id=:user_id OR user_two_id=:user_id) AND status=0 AND action_user_id=:user_id');
+			$stmt = $conn->prepare('SELECT user_one_id, user_two_id FROM friend WHERE (user_one_id=:user_id OR user_two_id=:user_id) AND status=0 AND action_user_id!=:user_id');
 			$stmt->bindValue(':user_id',$params["user_id"]);
 			if($stmt->execute()) {
 				$result = $stmt->fetchAll(PDO::FETCH_ASSOC);
@@ -330,7 +330,8 @@ class User_Functions {
 				$response["home_posts"] = array();
 				return json_encode($response);
 			}
-			$stmt = $conn->prepare('SELECT post.*,user.username FROM post,user WHERE post.poster_id IN ('.$friends_ids_r["friends_ids"].') AND post.poster_id=user.user_id ORDER BY timestamp DESC');			
+			$stmt = $conn->prepare('SELECT post.*,user.username FROM post,user WHERE post.poster_id IN ('.$friends_ids_r["friends_ids"].') AND user.user_id=post.poster_id ORDER BY timestamp DESC');
+			//$stmt = $conn->prepare('SELECT post.*,user.username FROM post,user WHERE post.poster_id IN ('.$friends_ids_r["friends_ids"].') AND post.poster_id=user.user_id ORDER BY timestamp DESC');			
 			if($stmt->execute()){
 				$result = $stmt->fetchAll(PDO::FETCH_ASSOC);
 				$response["success"] = 1;
@@ -503,6 +504,7 @@ class User_Functions {
 				if($s_ids == "") {
 					$response["success"] = 1;
 					$response["message"] = "User has no favourite posts";
+					$response["posts"] = array();
 					return json_encode($response);
 				}
 				//dobim poste

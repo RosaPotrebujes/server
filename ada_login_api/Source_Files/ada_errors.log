@@ -1,0 +1,1347 @@
+[22-Feb-2018 00:49:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:49:10 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:10 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:49:10 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 00:49:10 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 00:49:10 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:49:10 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:49:10 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:49:10 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:49:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:49:10 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:10 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:49:10 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 00:49:10 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 00:49:10 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:49:10 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:49:10 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:49:10 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:49:10 UTC] PHP Notice:  Undefined index: fileContent in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 211
+[22-Feb-2018 00:49:10 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:10 UTC] PHP Notice:  Undefined index: filename in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 213
+[22-Feb-2018 00:49:10 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:49:13 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:13 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:13 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:49:13 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 00:49:13 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 00:49:13 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:49:13 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:49:13 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:49:13 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:49:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:49:13 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:13 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:13 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:49:13 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 00:49:13 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 00:49:13 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:49:13 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:49:13 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:49:13 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:49:13 UTC] PHP Notice:  Undefined index: fileContent in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 211
+[22-Feb-2018 00:49:13 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:13 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:49:13 UTC] PHP Notice:  Undefined index: filename in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 213
+[22-Feb-2018 00:49:13 UTC] PHP Stack trace:
+[22-Feb-2018 00:49:13 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:53:04 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:04 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:53:04 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 00:53:04 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 00:53:04 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:53:04 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:53:04 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:53:04 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:53:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:53:04 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:04 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:53:04 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 00:53:04 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 00:53:04 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:53:04 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:53:04 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:53:04 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:53:04 UTC] PHP Notice:  Undefined index: fileContent in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 211
+[22-Feb-2018 00:53:04 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:04 UTC] PHP Notice:  Undefined index: filename in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 213
+[22-Feb-2018 00:53:04 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:53:06 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:06 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:06 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:53:06 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 00:53:06 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 00:53:06 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:53:06 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:53:06 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:53:06 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:53:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 00:53:06 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:06 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:06 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 00:53:06 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 00:53:06 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 00:53:06 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 00:53:06 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 00:53:07 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 00:53:07 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 00:53:07 UTC] PHP Notice:  Undefined index: fileContent in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 211
+[22-Feb-2018 00:53:07 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:07 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 00:53:07 UTC] PHP Notice:  Undefined index: filename in C:\wamp64\www\ada_login_api\Source_Files\index.php on line 213
+[22-Feb-2018 00:53:07 UTC] PHP Stack trace:
+[22-Feb-2018 00:53:07 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:14:36 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:14:36 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:14:36 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:14:36 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:14:36 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:36 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:36 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:36 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:14:36 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:36 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:36 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:36 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:14:40 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:14:40 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:14:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:14:40 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:14:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:14:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:14:40 UTC] PHP Stack trace:
+[22-Feb-2018 01:14:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:14:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:14:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:14:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:14:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:14:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:18:04 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:18:04 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:18:04 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:18:04 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:18:04 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:18:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:18:04 UTC] PHP Stack trace:
+[22-Feb-2018 01:18:04 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:18:04 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:18:04 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:18:04 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:18:04 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:18:04 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:52 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:52 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:52 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:20:52 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:20:52 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:53 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:53 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:53 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:20:53 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:20:53 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:53 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:53 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:53 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:20:53 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:53 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:53 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:53 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:20:53 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:20:53 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:53 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:53 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:53 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:20:53 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:20:53 UTC] PHP Stack trace:
+[22-Feb-2018 01:20:53 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:20:53 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:20:53 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:20:53 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:20:53 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:20:53 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:21:42 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:21:42 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:21:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:21:42 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:21:42 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:21:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:21:42 UTC] PHP Stack trace:
+[22-Feb-2018 01:21:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:21:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:21:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:21:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:21:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:21:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:22:10 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:22:10 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:22:10 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:22:10 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:22:10 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:22:10 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:22:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:22:10 UTC] PHP Stack trace:
+[22-Feb-2018 01:22:10 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:22:10 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:22:10 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:22:10 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:22:10 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:22:10 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:23:29 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:23:29 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:23:29 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:23:29 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:23:29 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:23:29 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:23:29 UTC] PHP Stack trace:
+[22-Feb-2018 01:23:29 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:23:29 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:23:29 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:23:29 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:23:29 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:23:29 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:25:51 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:25:51 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:25:51 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:25:51 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:25:51 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:25:51 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:22
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:25:51 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:25:51 UTC] PHP Stack trace:
+[22-Feb-2018 01:25:51 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:25:51 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:25:51 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:25:51 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:25:51 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:25:51 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:23 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:23 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:23 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:26:23 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:26:23 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:26:23 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:23 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:23 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:23 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:23 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:23 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:23 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:26:24 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:26:24 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:26:24 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:26:24 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:26:24 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:22
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:26:24 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:26:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:26:24 UTC] PHP Stack trace:
+[22-Feb-2018 01:26:24 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:26:24 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:26:24 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:26:24 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:26:24 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:26:24 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:27:49 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[22-Feb-2018 01:27:49 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[22-Feb-2018 01:27:49 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:49 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:49 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:49 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:10
+[22-Feb-2018 01:27:49 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[22-Feb-2018 01:27:49 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[22-Feb-2018 01:27:49 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:49 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:49 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:49 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:258
+[22-Feb-2018 01:27:49 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:49 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:49 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:49 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:27:49 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[22-Feb-2018 01:27:49 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:49 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:49 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:49 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:27:49 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:27:49 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[22-Feb-2018 01:27:49 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:49 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:49 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:49 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:49 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:49 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[22-Feb-2018 01:27:49 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[22-Feb-2018 01:27:50 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:22
+[22-Feb-2018 01:27:50 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:50 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:50 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:50 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:50 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[22-Feb-2018 01:27:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[22-Feb-2018 01:27:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\ada_login_api\Source_Files\audioDetect.php:12) in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[22-Feb-2018 01:27:50 UTC] PHP Stack trace:
+[22-Feb-2018 01:27:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[22-Feb-2018 01:27:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:263
+[22-Feb-2018 01:27:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[22-Feb-2018 01:27:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[22-Feb-2018 01:27:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[22-Feb-2018 01:27:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 11:44:01 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 11:44:01 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 11:44:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 11:44:01 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 11:44:01 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 11:44:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:44:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:44:01 UTC] PHP Stack trace:
+[25-Feb-2018 11:44:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:44:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 11:44:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:44:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:44:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:44:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 11:46:25 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 11:46:25 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 11:46:25 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 11:46:25 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 11:46:25 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 11:46:25 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:22
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 11:46:25 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 11:46:25 UTC] PHP Stack trace:
+[25-Feb-2018 11:46:25 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 11:46:25 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 11:46:25 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 11:46:25 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 11:46:25 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 11:46:25 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 13:55:54 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 13:55:54 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 13:55:54 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 13:55:54 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 13:55:54 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 13:55:54 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 13:55:54 UTC] PHP Stack trace:
+[25-Feb-2018 13:55:54 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 13:55:54 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 13:55:54 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 13:55:54 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 13:55:54 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 13:55:54 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:45:42 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:45:42 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 15:45:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 15:45:42 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 15:45:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:42 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:42 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 15:45:42 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:42 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:42 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:42 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:49 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:49 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:45:49 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 15:45:49 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 15:45:49 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:49 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:49 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:49 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:49 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:49 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:49 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:45:49 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 15:45:49 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 15:45:49 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:49 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:49 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:49 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:50 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 15:45:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:50 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:50 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 15:45:50 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 15:45:50 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:50 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:50 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:50 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:50 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 15:45:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:45:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:45:50 UTC] PHP Stack trace:
+[25-Feb-2018 15:45:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:45:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 15:45:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:45:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:45:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:45:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:48:40 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 15:48:40 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 15:48:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 15:48:40 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 15:48:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 15:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 15:48:40 UTC] PHP Stack trace:
+[25-Feb-2018 15:48:40 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 15:48:40 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 15:48:40 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 15:48:40 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 15:48:40 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 15:48:40 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 17:31:02 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 17:31:02 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 17:31:02 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 17:31:02 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 17:31:02 UTC] PHP   3. User_Functions->login() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:32
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\User_Functions.php:20
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 17:31:02 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:31:02 UTC] PHP Stack trace:
+[25-Feb-2018 17:31:02 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:31:02 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 17:31:02 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:31:02 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:31:02 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:31:02 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 17:32:01 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 17:32:01 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 17:32:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 17:32:01 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 17:32:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 17:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 17:32:01 UTC] PHP Stack trace:
+[25-Feb-2018 17:32:01 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 17:32:01 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 17:32:01 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 17:32:01 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 17:32:01 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 17:32:01 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:04:50 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:04:50 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 20:04:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 20:04:50 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 20:04:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:04:50 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:04:50 UTC] PHP Stack trace:
+[25-Feb-2018 20:04:50 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:04:50 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 20:04:50 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:04:50 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:04:50 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:04:50 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:16:30 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:16:30 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 20:16:30 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 20:16:30 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 20:16:30 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:30 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:30 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:30 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 20:16:30 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:30 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:30 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:30 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:16:38 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:9
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. DB_Handler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[25-Feb-2018 20:16:38 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:11
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:257
+[25-Feb-2018 20:16:38 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. DB_Handler->select_function() C:\wamp64\www\ada_login_api\Source_Files\index.php:260
+[25-Feb-2018 20:16:38 UTC] PHP   3. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Handler.php:20
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   6. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   7. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:261
+[25-Feb-2018 20:16:38 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[25-Feb-2018 20:16:38 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[25-Feb-2018 20:16:38 UTC] PHP Stack trace:
+[25-Feb-2018 20:16:38 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[25-Feb-2018 20:16:38 UTC] PHP   2. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\index.php:262
+[25-Feb-2018 20:16:38 UTC] PHP   3. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[25-Feb-2018 20:16:38 UTC] PHP   4. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[25-Feb-2018 20:16:38 UTC] PHP   5. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[25-Feb-2018 20:16:38 UTC] PHP   6. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394

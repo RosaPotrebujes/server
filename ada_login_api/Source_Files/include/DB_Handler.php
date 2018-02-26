@@ -20,6 +20,12 @@ class DB_Handler {
 		ChromePhp::log("Function selected: ".$fun);
 		$wrong_param = false;
 		switch($fun) {
+			case "detectAudio":
+				$response = array();
+				$response["success"] = 1;
+				$response["song"] = "songName";
+				return json_encode($response);
+				break;
 			case "login":
 				if(isset($parameters["username"]) && isset($parameters["password"])) {
 					$uf = new User_Functions();
