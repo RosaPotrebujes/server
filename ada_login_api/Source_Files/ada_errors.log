@@ -1,0 +1,20 @@
+[09-Feb-2019 12:11:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[09-Feb-2019 12:11:42 UTC] PHP Stack trace:
+[09-Feb-2019 12:11:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[09-Feb-2019 12:11:42 UTC] PHP   2. DBHandler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[09-Feb-2019 12:11:42 UTC] PHP   3. require_once() C:\wamp64\www\ada_login_api\Source_Files\include\DBHandler.php:9
+[09-Feb-2019 12:11:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:3
+[09-Feb-2019 12:11:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[09-Feb-2019 12:11:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[09-Feb-2019 12:11:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[09-Feb-2019 12:11:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
+[09-Feb-2019 12:11:42 UTC] PHP Warning:  Cannot modify header information - headers already sent in C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php on line 394
+[09-Feb-2019 12:11:42 UTC] PHP Stack trace:
+[09-Feb-2019 12:11:42 UTC] PHP   1. {main}() C:\wamp64\www\ada_login_api\Source_Files\index.php:0
+[09-Feb-2019 12:11:42 UTC] PHP   2. DBHandler->__construct() C:\wamp64\www\ada_login_api\Source_Files\index.php:9
+[09-Feb-2019 12:11:42 UTC] PHP   3. DB_Connect->connect() C:\wamp64\www\ada_login_api\Source_Files\include\DBHandler.php:11
+[09-Feb-2019 12:11:42 UTC] PHP   4. ChromePhp::log() C:\wamp64\www\ada_login_api\Source_Files\include\DB_Connect.php:19
+[09-Feb-2019 12:11:42 UTC] PHP   5. ChromePhp::_log() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:161
+[09-Feb-2019 12:11:42 UTC] PHP   6. ChromePhp->_addRow() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:274
+[09-Feb-2019 12:11:42 UTC] PHP   7. ChromePhp->_writeHeader() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:389
+[09-Feb-2019 12:11:42 UTC] PHP   8. header() C:\wamp64\www\ada_login_api\Source_Files\resources\chromephp\ChromePhp.php:394
